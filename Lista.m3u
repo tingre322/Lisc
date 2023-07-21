@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="ATV" tvg-logo="" group-title="PERU",ATV
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/157
+#EXTINF:-1 tvg-id="" tvg-name="CMD" tvg-logo="" group-title="PERU",CMD
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/159
+#EXTINF:-1 tvg-id="" tvg-name="Gol Peru" tvg-logo="" group-title="DEPORTES",Gol Peru
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/170
+#EXTINF:-1 tvg-id="" tvg-name="Panamericana" tvg-logo="" group-title="PERU",Panamericana
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/184
+#EXTINF:-1 tvg-id="" tvg-name="Peru Magico" tvg-logo="" group-title="PERU",Peru Magico
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/186
+#EXTINF:-1 tvg-id="" tvg-name="RPP" tvg-logo="" group-title="PERU",RPP
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/187
+#EXTINF:-1 tvg-id="" tvg-name="TV Peru" tvg-logo="" group-title="PERU",TV Peru
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/193
+#EXTINF:-1 tvg-id="" tvg-name="WOBI" tvg-logo="" group-title="PERU",WOBI
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/201
+#EXTINF:-1 tvg-id="" tvg-name="America Television" tvg-logo="" group-title="PERU",America Television
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/205
+#EXTINF:-1 tvg-id="" tvg-name="Latina" tvg-logo="" group-title="PERU",Latina
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/206
+#EXTINF:-1 tvg-id="" tvg-name="JUSTICIA TV" tvg-logo="" group-title="PERU",JUSTICIA TV
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/3929
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR PLUS" tvg-logo="" group-title="PERU",MOVISTAR PLUS
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/3930
+#EXTINF:-1 tvg-id="" tvg-name="TV PERU 7.3" tvg-logo="" group-title="PERU",TV PERU 7.3
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/3933
+#EXTINF:-1 tvg-id="" tvg-name="America TV HD" tvg-logo="" group-title="PERU",America TV HD
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4311
+#EXTINF:-1 tvg-id="" tvg-name="Gol Peru HD" tvg-logo="" group-title="DEPORTES",Gol Peru HD
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4315
+#EXTINF:-1 tvg-id="" tvg-name="Willax" tvg-logo="" group-title="PERU",Willax
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4368
